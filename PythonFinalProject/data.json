@@ -1,0 +1,1 @@
+{"parts_list": [["1", "iron", "199"], ["200", "hammer", "2000"]], "transaction_records": ["Operation: A, Part number: 1", "Operation: A, Part number: 200", "Operation: A, Part number: 123", "Operation: D, Part number: 123"]}
